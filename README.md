@@ -1,1 +1,2 @@
 # Somalocok_
+Somalocok is a movie review website. This system is built upon the LARAVEL frame work. Here, an admin can perforb CRUD function on movie items. A BLADE template is used as the front end of the system. I have also added some ML classes which classifies the movies based on their genre. Users can comment and rate movies here. MySQL is used as the database management system for this project.
